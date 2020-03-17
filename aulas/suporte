@@ -1,0 +1,43 @@
+querySelector(".algo")
+-Utilizado para acessar o dom, sequentemente podemos acessar e modificar estes objetos
+-Em um objeto com a mesma classe ele retornaria apenas o primeiro indice do intervalo
+-Retorna apenas um elemento
+
+<div class="inputs">
+		<input class="form" type="text" name="texto">
+		<input class="form" type="text" name="text">
+		<input class="form" type="text" name="text">
+		<button typpe="submit">Definir</button>
+	</div>
+  
+  
+ex.:
+
+document.querySelector(".form")
+console:
+<input class="form" type="text" name="texto">
+
+querySelectorAll(".algo")
+-Retorna uma matriz de elementos html
+-Facilita o uso de laços como o foreach e for, por exemplo
+
+ex.:
+
+document.querySelectorAll(".form")
+console:
+<input class="form" type="text" name="texto">
+<input class="form" type="text" name="text">
+<input class="form" type="text" name="text">
+
+Modificando propriedades e acessando valores
+-innerHTML
+-value
+-textContent
+-src
+-preventDefault
+
+
+
+
+
+
