@@ -54,11 +54,18 @@ Aritiméticos:
 	--drecremento
 	() criar expresoes // podemos criar precedencia 
 
-Casos:
 
 
+Conversão de de tipos:
 
+Em alguns casos (inputs) o valor retornado será string.
 
+Para isso possuimos alguns métodos de conversão:
+parseInt(var)
+parseFloat(var)
+Number() //deixa o js. decidir qual o valor numérico que está dentro da varável
+
+Caso o valor digitado não for reconhecido com um número o console irá retornar: NaN (not a number)
 
 
 
