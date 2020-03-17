@@ -36,6 +36,33 @@ Modificando propriedades e acessando valores
 -src
 -preventDefault
 
+Tipos de dados
+
+* O javaScrit é uma linguagem fracamente tipada, com isso não é necessário declarar seu tipo, pois isso já é feito automaticamnete;
+* Em alguns casos é bom ter cuidado com <input>, pois este elemento sempre retorna **string**;
+
+Tipos:
+Aritiméticos:
+
+	+ adicão                     += soma de valor existente
+	- subtração        	     -= subtrai do valor existente
+	/ divisão		     *= multiplaca do valor existente
+	* multiplicação
+	** exponeciação
+	% resto
+	++ incremento
+	--drecremento
+	() criar expresoes // podemos criar precedencia 
+
+Casos:
+
+
+
+
+
+
+
+
 
 
 
